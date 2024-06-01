@@ -1,0 +1,12 @@
+.footer__bottom {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
+
+.footer__tea {
+  display: block; }
+
+.footer__payments {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex; }
